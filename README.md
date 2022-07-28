@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atabek-bakhramov-camelcasecoder" target="blank">Linkedin account</a>
+<a href="https://www.linkedin.com/in/atabek-furkad/" target="blank">Linkedin account</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
